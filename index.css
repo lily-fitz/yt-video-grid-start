@@ -1,0 +1,27 @@
+/* import google font Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* box-sizing */
+* {
+  box-sizing: border-box;
+}
+
+/* body */
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.3rem;
+}
+
+/* container */
+
+/* -------------------- */
+/* Video Card Component */
+/* -------------------- */
+
+/* imgages */
+
+/* video details */
+
+/* details title (h3 element) */
+
+/* details meta data (p elements) */
